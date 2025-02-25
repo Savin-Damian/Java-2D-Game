@@ -6,5 +6,5 @@ Would you be willing to help Klim steal the diamonds and flee the kingdom?
 
 ![intro](https://github.com/user-attachments/assets/ec1a29ef-e548-4b7f-9096-d268c89518ca)
 <p align="center">
-  <img src="URL_imagine" alt="Descriere imagine" />
+  <img src="[URL_imagine](https://github.com/user-attachments/assets/ec1a29ef-e548-4b7f-9096-d268c89518ca)" alt="Descriere imagine" />
 </p>
