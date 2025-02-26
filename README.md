@@ -38,12 +38,12 @@ Game theme: The main theme of the game is adventure, as it provides players with
   <img src="https://github.com/user-attachments/assets/892cf32b-5af8-4f57-8a42-1d8636e4ed99" alt="UI joc" />
 </p>
 ## Instructions and Rules
-- The player controls the character using the arrow keys (Up, Down, Left, Right).
-- The player can attack guards by throwing projectiles (`S` key).  
-- The player can also attack guards using a sword (`Space` key), requiring six hits to eliminate them.
-- The player has a limited number of projectiles, which are replenished per level.
-- Guards throw projectiles randomly and move left and right every four seconds.
-- Surveillance cameras move randomly; if touched, the level is lost.
+1. The player controls the character using the arrow keys (Up, Down, Left, Right).
+2. The player can attack guards by throwing projectiles (`S` key).  
+3. The player can also attack guards using a sword (`Space` key), requiring six hits to eliminate them.
+4. The player has a limited number of projectiles, which are replenished per level.
+5. Guards throw projectiles randomly and move left and right every four seconds.
+6. Surveillance cameras move randomly; if touched, the level is lost.
 
 
 
