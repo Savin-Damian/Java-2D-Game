@@ -48,7 +48,7 @@ Level 3 takes place in the Queen's main castle. To win, you must evade the guard
 ![Nivel2](https://github.com/user-attachments/assets/c5ebafd6-2a48-40bc-84cf-53ed7fe872e9)
 ![Nivel3](https://github.com/user-attachments/assets/86f8ec96-0b32-45c5-8d81-6b3115b1152e)
 
-##Menu Description 
+## Menu Description 
 When the game starts, a menu appears with three buttons: New Game, Load Game, and Exit. New Game – Starts a new game from the beginning. Load Game – Loads the previously saved game state (the game is automatically saved after each completed level). Exit – Closes the game, regardless of the current progress.
 ![Meniu_joc](https://github.com/user-attachments/assets/6bee8d4e-c695-4c3a-bfcd-e085d8b8d59b)
 ![Captură ecran (40)](https://github.com/user-attachments/assets/1850ba96-acdb-4d36-bc4f-36dba9682296)
