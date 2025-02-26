@@ -37,6 +37,15 @@ Game theme: The main theme of the game is adventure, as it provides players with
 <p align="center">
   <img src="https://github.com/user-attachments/assets/892cf32b-5af8-4f57-8a42-1d8636e4ed99" alt="UI joc" />
 </p>
+## Instructions & Rules:
+- The player controls the character using the arrow keys (Up, Down, Left, Right).
+- The player can attack guards by throwing projectiles (`S` key).  
+- The player can also attack guards using a sword (`Space` key), requiring six hits to eliminate them.
+- The player has a limited number of projectiles, which are replenished per level.
+- Guards throw projectiles randomly and move left and right every four seconds.
+- Surveillance cameras move randomly; if touched, the level is lost.
+
+
 
 ## Level Description
 Level 1 takes us to the Queen's first castle, where her first diamond is hidden in a vault. If you manage to reach the vault safely, you will find a tunnel leading to the second castle and Level 2. 
