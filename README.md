@@ -30,4 +30,10 @@ Animations:
 
 
 Game overview: It is a single-player game where the player is in a palace full of obstacles, and must pass through unnoticed by using agility and camouflage skills. The player wins when they steal all three diamonds. 
+
 Game theme: The main theme of the game is adventure, as it provides players with an experience full of suspense and discovery as they progress through the story and face the challenges encountered along the way.
+
+## User interface design
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/892cf32b-5af8-4f57-8a42-1d8636e4ed99" alt="UI joc" />
+</p>
