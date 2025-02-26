@@ -37,6 +37,8 @@ Game theme: The main theme of the game is adventure, as it provides players with
 <p align="center">
   <img src="https://github.com/user-attachments/assets/892cf32b-5af8-4f57-8a42-1d8636e4ed99" alt="UI joc" />
 </p>
+
+
 ## Instructions and Rules
 1. The player controls the character using the arrow keys (Up, Down, Left, Right).
 2. The player can attack guards by throwing projectiles (`S` key).  
