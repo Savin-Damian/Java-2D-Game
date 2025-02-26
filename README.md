@@ -37,3 +37,13 @@ Game theme: The main theme of the game is adventure, as it provides players with
 <p align="center">
   <img src="https://github.com/user-attachments/assets/892cf32b-5af8-4f57-8a42-1d8636e4ed99" alt="UI joc" />
 </p>
+
+## Level Description
+Level 1 takes us to the Queen's first castle, where her first diamond is hidden in a vault. If you manage to reach the vault safely, you will find a tunnel leading to the second castle and Level 2. 
+
+Level 2 takes us to the Queen's second castle, where her second diamond is hidden in a vault. To progress, you must reach the vault safely and collect at least 10 coins. Once inside, you'll find a tunnel leading to the third castle and Level 3.
+
+Level 3 takes place in the Queen's main castle. To win, you must evade the guards and surveillance cameras while collecting at least 25 coins.
+
+![Nivel2](https://github.com/user-attachments/assets/c5ebafd6-2a48-40bc-84cf-53ed7fe872e9)
+![Nivel3](https://github.com/user-attachments/assets/86f8ec96-0b32-45c5-8d81-6b3115b1152e)
