@@ -11,7 +11,6 @@ Game description: The player follows a well-established path through the palace 
 ## Content design: 
 Klim is the protagonist and the player-character. 
 ![PaznicVerdeDrept](https://github.com/user-attachments/assets/ffca67bb-9d2c-44ad-b228-8c6de3e99fb5)
-
 The guard is one of Klim's obstacles. 
 ![PaznicVerdeDrept](https://github.com/user-attachments/assets/66f9002e-b730-45e7-a827-70cd45984f83)
 
